@@ -189,6 +189,7 @@ body{
 }
 .image-content img:hover{
     transform: scale(1.5);
+    border: none;
 }
 .image-p {
     flex-basis: 30% !important;
